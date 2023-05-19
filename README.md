@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Zenteno</h1>
 <h3 align="center">I am a self-taught student of Java, Python and Kotlin programming.</h3>
 
-- 🌱 I’m currently learning **Java, Kotlin, MySql, Android Studio, GitHub**
+- 🌱 I’m currently learning **Java, Kotlin, Jetpack Compose, Android Studio, MySql, MongoDB, HTML5, CSS3, Javascript, Bootstrap 5, GitHub**
 
 - 📫 How to reach me **fernandolzm98@gmail.com**
 
