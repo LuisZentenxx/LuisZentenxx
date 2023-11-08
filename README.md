@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Zenteno</h1>
-<h3 align="center">I am a self-taught student of Python,Java and Kotlin programming.</h3>
+<h3 align="center">I am a self-taught student of Backend with Python + Django, and Mobile with Java and Kotlin.</h3>
 
 <p align="center">
   <img src="https://github.com/LuisZentenxx/LuisZentenxx/blob/main/mario-pixel-art.gif" alt="Mario Pixel Art">
@@ -37,8 +37,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luiszentenxx&show_icons=true&locale=en&layout=compact" alt="luiszentenxx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luiszentenxx&show_icons=true&locale=en" alt="luiszentenxx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luiszentenxx&" alt="luiszentenxx" /></p>
 
 ---
 <!-- Snake code contribution diagram -->
