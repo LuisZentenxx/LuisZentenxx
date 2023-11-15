@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Zenteno</h1>
-<h3 align="center">I am a self-taught student of Backend with Python + Django, and Mobile with Java and Kotlin.</h3>
+<h3 align="center">I am a self-taught student of Backend with Python + Django, and Frontend with Javascript + React. </h3>
 
 <p align="center">
   <img src="https://github.com/LuisZentenxx/LuisZentenxx/blob/main/mario-pixel-art.gif" alt="Mario Pixel Art">
