@@ -12,7 +12,7 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/luis-zenteno-83a006220/](https://www.linkedin.com/in/luis-zenteno-xprogram/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-zenteno-83a006220/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-zenteno-xprogram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-zenteno-83a006220/" height="30" width="40" /></a>
 <a href="https://instagram.com/_fernan_droid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fernan_droid_" height="30" width="40" /></a>
 </p>
 <br>
