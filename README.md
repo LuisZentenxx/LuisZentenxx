@@ -6,7 +6,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Python, Django, Kotlin, Java, MySql, Javascript, Android Studio, GitHub, Firebase**
+- 🌱 I’m currently learning **Python, Django, Javascript, Typescript, React, Tailwind, SQL, GitHub, Firebase**
 
 - 📫 How to reach me **fernandolzm98@gmail.com**
 
