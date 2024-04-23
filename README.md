@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Zenteno</h1>
-<h3 align="center">I am a self-taught student of Python, Django, Javascript and React.</h3>
+<h3 align="center">I am a self-taught student of Python, Django, Golang.</h3>
 <div align="center">
   <p>🔭 I’m currently working on Bodega Ahorro (Ecommerce)</p>
   <p>🌱 I’m currently learning Python, Django, Javascript, Typescript, React, SQL, API REST</p>
