@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Zenteno</h1>
-<h3 align="center">I am a self-taught student of Python, Django, Golang.</h3>
+<h3 align="center">I am a self-taught student of programming.</h3>
 <div align="center">
-  <p>🔭 I’m currently working on Bodega Ahorro (Ecommerce)</p>
-  <p>🌱 I’m currently learning Python, Django, Javascript, Typescript, React, SQL, API REST</p>
+  <p>🔭 I’m currently working on Golang Roadmap and Kotlin MVVM Apps</p>
+  <p>🌱 I’m currently learning Kotlin, Javascript, Typescript, React, API REST, Astro</p>
   
 
 📫 How to reach me **fernandolzm98@gmail.com**
